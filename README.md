@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @beardedpinduca, also known as Jonas;
+- 👋 Hi, I’m @jonasdiedrich, also known as Jonas;
 - 👀 I’m interested in transitioning from a 10yrs team leadership career to a dev/po career;
 - 🌱 I’m currently learning HTML, CSS and Javascript;
 - 💞️ I’m looking to collaborate on everything related to 'easy others lives';
